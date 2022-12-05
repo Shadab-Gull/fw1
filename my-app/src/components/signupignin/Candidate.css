@@ -1,0 +1,35 @@
+#oc1 {
+    padding: 25px;
+    margin-left: 22%;
+    width: 50%;
+    height: 200px;
+    box-shadow: 0 1px 2px 1px rgb(31, 27, 27);
+    border-radius: 3px;
+
+}
+.cbtn2{
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 220px;
+}
+.box{
+    margin-left: 1200px;
+}
+#oc2 {
+    padding: 25px;
+    margin-left: 22%;
+    width: 50%;
+    height: 300px;
+    box-shadow: 0 1px 2px 1px rgb(31, 27, 27);
+    border-radius: 3px;
+
+}
+.btns1{
+  
+    border-color: blue;
+    border-width: 5px;
+}
+
+.img2{
+    height: 450px;
+}

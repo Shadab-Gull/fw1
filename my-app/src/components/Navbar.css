@@ -1,0 +1,35 @@
+
+
+#img1{
+    width: 100px;
+}
+.navbar{
+    background-color:white;
+  
+}
+.nav-link{
+    color: black;
+font-weight: bold;
+}
+.navbar-toggler{
+    color: black;
+}
+.navbar-toggler-icon{
+    color: black;
+}
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+#navbtn12{
+    align-content: flex-end;
+    background-color: black;
+    font-weight: bold;
+    color: beige;
+    margin-left: 14px;
+}
+#navbtn:hover{
+    background-color:#CBA0AE ;
+} 

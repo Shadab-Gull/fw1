@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,700&display=swap');
+
+.card{
+width: 18rem;
+}
+.h2{
+    text-align: center;
+    padding-top: 30px;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+}
+
+.row{
+   
+    /* margin-top: 20px; */
+    margin-left: 40px;
+    align-items: center;
+    /* margin-bottom: 30px; */
+}
+.card-img-top{
+  height: 200px;
+}
+.services{
+    background-color:#F7F7F7;
+    background-image: -webkit-linear-gradient(65deg, #F7F7F7 50%, #7F8487 50%);
+  min-height: 480px;
+min-width:auto;
+}
